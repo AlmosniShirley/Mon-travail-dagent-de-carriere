@@ -1,10 +1,8 @@
 # Mon travail d'agent de carrière
 
-Donner du détail sur ma méthode et mon modèle d'intervention 
-
 Depuis maintenant plus de 2 ans, j'ai développé une casquette d'agent de carrière. C'est une sorte de nouveau métier dont les contours dépendent de chaque agent de carrière. 
 
-En ce qui me concerne, cela repose sur le concept suivant 
+En ce qui me concerne, cela repose sur le concept suivant. 
 
 # Qui est concerné ? 
 
@@ -22,19 +20,19 @@ Alors ils sont multiples. Chaque point de départ est différent et a sa solutio
 
 Quelques exemples : 
 
-1 - Reconversion : "Je suis dev etje veux basculer PO"
+1 - Reconversion : "Je suis dev et je veux basculer PO".
 
-2 - Méconnaissance du marché : "Je ne sais pas vraiment ce que dit le marché sur les postes, les besoins, les salaires"
+2 - Méconnaissance du marché : "Je ne sais pas vraiment ce que dit le marché sur les postes, les besoins, les salaires".
 
-3 - Entretien : "Je ne suis pas bon lors des entretiens. Je constate que j'ai plusieurs refus" ou "je veux absolument réussir cet entretien pour ce poste"
+3 - Entretien : "Je ne suis pas bon lors des entretiens. Je constate que j'ai plusieurs refus" ou "je veux absolument réussir cet entretien pour ce poste".
 
 4 - Jobs : "Peux-tu m'aider à trouver des pistes de jobs qui me correspondent vraiment ?"
 
-5 - Négociation : "Je suis sur l'étape finale du processus de recrutement et je ne sais pas négocier mon salaire", "Peux-tu m'aider pour mon entretien annuel ?"
+5 - Négociation : "Je suis sur l'étape finale du processus de recrutement et je ne sais pas négocier mon salaire" ou "Peux-tu m'aider pour mon entretien annuel ?".
 
-6 - Droit du travail : "Est-ce que c'est légal ceci ou cela ?", "Peux-tu lire mon contrat de travail ?", "Je suis en train de partir de mon job peux-tu m'aider sur la RC ou sur l'entretien préalable au licenciement ?"
+6 - Droit du travail : "Est-ce que c'est légal ceci ou cela ?" ou "Peux-tu lire mon contrat de travail ?" ou "Je suis en train de partir de mon job peux-tu m'aider sur la RC ou sur l'entretien préalable au licenciement ?".
 
-7 - Communication : "Peux-tu regarder mon CV et me dire ce qui ne va pas?" ou "Peux-tu regarder mon Linkedln et m'aider sur ma présentation ?"
+7 - Communication : "Peux-tu regarder mon CV et me dire ce qui ne va pas?" ou "Peux-tu regarder mon Linkedln et m'aider sur ma présentation ?".
 
   Voici quelques exemples que j'ai pu rencontrer. Ils sont très variés mais ce qui revient le plus souvent c'est le 2, 3, 4, 7.
 
@@ -78,9 +76,10 @@ En dehors des étapes je peux, en filirane, réaliser de multiples sessions de c
 
 C'est une offre en **mode tiroir** car la personne peut choisir uniquement la première étape et pas les suivantes, ou alors juste la dernière, ou toutes. C'est à la carte. 
 
+
 Voilà j'espère que ma démarche d'accompagnement est plus claire. 
 
-**Information importante** : pour que mon travail soit qualitatif, je prends, au maximum, 10 accompagnements maximum en même temps, d'où, des fois, mes dates de disponibilité assez lointaines. 
+**Information importante** : pour que mon travail soit qualitatif, je prends, au maximum, 10 accompagnements en même temps, d'où, des fois, mes dates de disponibilité assez lointaines. 
 
 Voici mon adresse mail si besoin : almosnishirley@gmail.com 
 
