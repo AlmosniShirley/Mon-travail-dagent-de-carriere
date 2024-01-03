@@ -80,6 +80,8 @@ C'est une offre en **mode tiroir** car la personne peut choisir uniquement la pr
 
 Voilà j'espère que ma démarche d'accompagnement est plus claire. 
 
+**Information importante** : pour que mon travail soit qualitatif, je prends, au maximum, 10 accompagnements maximum en même temps, d'où, des fois, mes dates de disponibilité assez lointaines. 
+
 Voici mon adresse mail si besoin : almosnishirley@gmail.com 
 
 
