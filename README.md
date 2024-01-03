@@ -72,7 +72,7 @@ Au cours de cette simulation, je me fais passer pour une recruteuse et je réali
 
 ## En dehors des étapes 
 
-En dehors des étapes je peux, en filirane, réaliser de multiples sessions de coaching notamment sur la partie communication, négociation, départ de poste, et vision du marché. 
+En dehors des étapes je peux, en filigrane, réaliser de multiples sessions de coaching notamment sur la partie communication, négociation, départ de poste, et vision du marché. 
 
 C'est une offre en **mode tiroir** car la personne peut choisir uniquement la première étape et pas les suivantes, ou alors juste la dernière, ou toutes. C'est à la carte. 
 
