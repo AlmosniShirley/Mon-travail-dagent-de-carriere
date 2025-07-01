@@ -38,49 +38,14 @@ Quelques exemples :
 
   # Solutions apportées
 
-Ainsi, selon chaque point de départ, j'ai donc imaginé des solutions qui peuvent aider l'individu et ce, en plusieurs étapes, avec un choix en mode tiroir : cad la personne choisit l'étape qui l'intéresse le plus. 
+Ainsi, pour être au plus des besoins exprimés, nous avons imaginé, avec le collectif duo Tech-RH, plusieurs offres sur-mesure 
 
-## Etape 1 : définition du projet de carrière 
-
-Ce que la personne veut vraiment en mettant sur la table ses priorités et comment on va y aller. 
-
-`Format` : c'est une session de coaching qui peut durer une heure environ. 
-
-`Paiement` à la fin de la session de coaching.
-
-## Etape 2 : simulation d'entretien de recrutement 
-
-Au cours de cette simulation, je me fais passer pour une recruteuse et je réalise un entretien fictif. J'observe le discours et je réalise un feedback oral complet. Je peux aussi réaliser un feedback écrit pour avoir un kit de techniques/astuces sous la main pour tous les entretiens. Il s'agit d'une documentation complete sur plusieurs pages. Le prix est plus élévé si la personne demande un feedback écrit (car sa rédaction prend pas mal de temps). 
-
-`Format` : c'est une simulation qui peut durer environ une heure. 
-
-`Paiement` à la fin de la session de simulation ou au livrable du document écrit (si demande de document écrit).
-
-## Etape 3 : sourcing d'opportunité 
-
-- Je réalise un brief du besoin sur 30 minutes pour avoir le souhait sous toutes ses coutures.
-
-- Je le met en forme sur Canva.
-
-- Et je le partage sur les réseaux sociaux (Linkedln, Twitter).
-
-- Je partage ensuite avec mon client la récolte de leads d'opportunités pour lui : on arbitre ensemble s'il souhaite ou non donner une suite favorable. 
-
-`Format` : on est sur un format long d'accompagnement sur plusieurs semaines. 
-
-`Paiement` : Il y a un paiement en deux temps : une fois sa présentation diffusée sur les réseaux sociaux et une autre fois au succès des rencontres (cad paiement uniquement au bout du 2eme entretien dans le processus de recrutement)
-
-## En dehors des étapes 
-
-En dehors des étapes je peux, en filigrane, réaliser de multiples sessions de coaching notamment sur la partie communication, négociation, départ de poste, et vision du marché. 
-
-C'est une offre en **mode tiroir** car la personne peut choisir uniquement la première étape et pas les suivantes, ou alors juste la dernière, ou toutes. C'est à la carte. 
-
+<img width="824" alt="Capture d’écran 2025-07-01 à 11 11 01" src="https://github.com/user-attachments/assets/d7f58744-026c-4f06-a89c-e503056209a1" />
 
 Voilà j'espère que ma démarche d'accompagnement est plus claire. 
 
 **Information importante** : pour que mon travail soit qualitatif, je prends, au maximum, 10 accompagnements en même temps, d'où, des fois, mes dates de disponibilité assez lointaines. 
 
-Voici mon adresse mail si besoin : almosnishirley@gmail.com 
+Voici mon adresse mail si besoin : almosnishirley@gmail.com ou shirley.chiche@buildrh.co
 
 
